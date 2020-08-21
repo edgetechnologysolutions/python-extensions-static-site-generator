@@ -157,7 +157,7 @@ def test_extensions_load_directory_module1(parse):
                 "0_value_type": "Call",
                 "0_value_func_id": "load_module",
                 "0_value_args_0_type": "Call",
-                "0_value_args_0_func_value_id": "path",
+                "0_value_args_0_func_value_id": "directory",
                 "0_value_args_0_func_attr": "as_posix",
                 "0_value_args_1_value_id": "path",
                 "0_value_args_1_attr": "stem",

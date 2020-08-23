@@ -379,6 +379,8 @@ def test_menu_list_template_module3(parse):
         generate_menu_exists
     ), "Are you defining a function called `generate_menu` with the correct arguments?"
 
+
+
     menu_item = (
         generate_menu.returns_call()
         .match(
